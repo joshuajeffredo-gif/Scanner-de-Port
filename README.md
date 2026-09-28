@@ -40,3 +40,5 @@ Les ports ouverts sont : [80, 443]
 ## Attention
 
 Utilisez ce programme uniquement sur des machines ou réseaux pour lesquels vous avez l'autorisation d'effectuer un scan.
+
+Écris par Chatgpt et Joshua
